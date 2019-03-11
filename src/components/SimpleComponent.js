@@ -10,6 +10,10 @@ export default class SimpleComponent extends Component {
     }
   }
 
+  handleClick = () => {
+    
+  }
+
   render(){
     return(
       <div>{this.state.mood}</div>
