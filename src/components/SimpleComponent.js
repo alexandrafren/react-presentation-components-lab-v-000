@@ -11,7 +11,7 @@ export default class SimpleComponent extends Component {
   }
 
   handleClick = () => {
-    
+
   }
 
   render(){
