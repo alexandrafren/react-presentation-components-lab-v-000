@@ -12,7 +12,7 @@ export default class SimpleComponent extends Component {
 
   render(){
     return(
-      <div></div>
+      <div>{this.state.mood}</div>
     )
   }
 
